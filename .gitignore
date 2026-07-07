@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+images/
+multimodal_dataset.csv
+test_song.mid
+*.pkl
